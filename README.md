@@ -103,3 +103,9 @@ Output the result:
 >**Goat V0.3.5**https://gitcode.net/mincraftmojang/gbeat/-/blob/source_file/Goat%20beta/GoatV0.3.5%5Bbeat%5D.py)
 
 + Fixed an issue where functions could not be called normally
+
+# Changelog:
+***https://gitcode.net/mincraftmojang/gbeat/-/blob/source_file/Goat%20beta/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97%5BBeat%5D.md***
+
+#More information can be found here：
+***https://gitcode.net/mincraftmojang/gbeat/-/tree/source_file***
