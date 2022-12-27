@@ -1,3 +1,5 @@
+# The project has reached end of support!
+
 # features
 
 + Version 0.3.3 and above does not conflict with khl.py and most external .py files
